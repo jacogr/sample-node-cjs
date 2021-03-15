@@ -1,0 +1,11 @@
+{
+  "name": "sample-node-cjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ithub.com:jacogr/sample-node-cjs",
+  "author": "Jaco Greeff <jacogr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^4.0.3"
+  }
+}
